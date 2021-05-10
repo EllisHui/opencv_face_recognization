@@ -6,4 +6,5 @@ Links for complete Tutorial:
 https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826
 https://www.instructables.com/id/Real-time-Face-Recognition-an-End-to-end-Project/
 <br>
-<p><img src="https://github.com/Mjrovai/OpenCV-Face-Recognition/blob/master/FaceRecogBlock.png?raw=true"></p>
+<p><img src="./single_face.png?raw=true"></p>
+<p><img src="./multi_face.png?raw=true"></p>
